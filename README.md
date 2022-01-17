@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HeyitsJosh09
+- 👋 Hi, I’m @UNKMyst
 - 👀 I’m interested in learning to become a junior devoloper of some sorts/
 - 🌱 I’m currently learning git and github.
 - 💞️ I’m looking to collaborate on projects that may enable me to grow and learn as a programmer/coder.
